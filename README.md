@@ -14,11 +14,9 @@ code for the county data.  We were also able to determine that Denver had the hi
 
 ## Election-Audit Results
 - Total Votes:
-
 369,711 
 
 - County Vote Breakdown:
-
 Jefferson: 10.5% (38,855)
 Denver: 82.8% (306,055)
 Arapahoe: 6.7% (24,801)
@@ -27,14 +25,12 @@ Arapahoe: 6.7% (24,801)
 
 
 - Highest Voter Turnout:
-
 Denver
 
 ![image](https://user-images.githubusercontent.com/64279232/125878936-b94adab2-8752-47aa-a3e6-fa8a34a00a50.png)
 
 
 - Candidate Vote Breakdown:
-
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Ramon Anthony Doane: 3.1% (11,606)
@@ -43,7 +39,6 @@ Ramon Anthony Doane: 3.1% (11,606)
 
 
 - Winner:
-
 Diana DeGette won the election with 272,892 votes (73.8% of the votes).
 
 ![image](https://user-images.githubusercontent.com/64279232/125879198-3d7bc8c2-7196-44fb-9144-375d991d5743.png)
