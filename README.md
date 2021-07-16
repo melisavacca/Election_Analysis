@@ -12,7 +12,8 @@ We printed this code to the terminal but also learned how to execute it as a tex
 was definitely a challenge for me.  Once we were able to get this correct, we were able to apply what we learned with the candidates and run similar
 code for the county data.  We were also able to determine that Denver had the highest turnout of voters.  
 
-### Election-Audit Results
+## Election-Audit Results
+- What are two conclusions
 - Total Votes:
 369,711 
 
